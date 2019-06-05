@@ -1,3 +1,2 @@
 # hellopytorch
-El repositorio que es 
-aca haciendo cambios
+esta va  a ser la princiapl 
